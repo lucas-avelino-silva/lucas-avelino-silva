@@ -4,7 +4,6 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lucas-avelino-silva&bg_color=0d1117&color=FFFFFF&line=6495ED&point=191970&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=lucas-avelino-silva&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
@@ -13,8 +12,6 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lucas-avelino-silva&show_icons=true&count_private=true&hide_border=true&title_color=0000FF&icon_color=0000FF&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-avelino-silva&layout=compact&hide_border=true&title_color=0000FF&text_color=0000FF&bg_color=0d1117" />
 </div>
-
-
 
   ### Main skills:
 ![C#](https://img.shields.io/badge/-.NET-9400D3?style=for-the-badge&logo=%22&labelColor=9400D3)&nbsp;
@@ -28,6 +25,8 @@
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 -->
 
-
+<div align="center"> 
+<a href="https://www.linkedin.com/in/www.linkedin.com/in/lucas-avelino-desenvolvedor/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=footer"/>
